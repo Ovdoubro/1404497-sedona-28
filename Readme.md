@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Оля Дубровская](https://up.htmlacademy.ru/htmlcss/28/user/1404497).
-* Наставник:[Арсений Березин](https://htmlacademy.ru/profile/id263537) 
+* Наставник:[Арсений Березин](https://up.htmlacademy.ru/htmlcss/28/user/263537) 
 
 ---
 
