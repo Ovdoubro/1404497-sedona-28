@@ -9,7 +9,6 @@
   --basic-blue: #669EC0;
   --basic-light-blue: #81B3D2;
   --basic-white: #ffffff;
-  #669EC0;
 }
 
 /* Global */
@@ -79,14 +78,10 @@ img {
   color: var(--basic-light-blue);
 }
 
-.name{
+.home-screen{
   text-align: center;
 }
 
-p,
-h3 {
-  text-align: center;
-}
 
 /* Appointment */
 
@@ -94,6 +89,11 @@ h3 {
   font-weight: bold;
   font-size: 21px;
   line-height: 26px;
+  text-align: center;
+}
+
+.cause {
+  text-align: center;
 }
 
 .form {
@@ -105,18 +105,21 @@ h3 {
   color: var(--basic-white);
   background-color: var(--basic-brown);
   line-height: 26px;
+  text-align: center;
 }
 
 .question {
   font-weight: bold;
   font-size: 30px;
   line-height: 24px;
+  text-align: center;
 }
 
 .appointment-info {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
+  text-align: center;
 }
 
 .appointment-item {
