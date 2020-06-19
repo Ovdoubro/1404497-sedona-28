@@ -5,7 +5,7 @@
   --basic-dark-brown: #503E33;
   --basic-brown: #604E43;
   --basic-light-brown: #766357;
-  --basic-extra-dark:#888888;
+  --basic-extra-dark: #888888;
   --basic-dark-grey: #666666;
   --basic-grey: #EEEEEE;
   --basic-light-grey: #F2F2F2;
@@ -240,8 +240,6 @@ img {
   height: 38px;
   margin-left: 23px;
   padding: 0;
-  padding-right:;
-  padding-left: ;
   text-transform: uppercase;
   font-weight: bold;
   background: var(--basic-light-grey);
@@ -300,7 +298,6 @@ display: flex;
 }
 
 .hotel-name {
-  text-align;
   font-weight: bold;
   font-size: 21px;
   line-height: 26px;
@@ -374,7 +371,7 @@ justify-content: space-between;
 
 .star {
 margin-top: 29px;
-background-image: url(../img/svg-sedona/star.svg)
+background-image: url(../img/svg-sedona/star.svg);
 background-repeat: space;
 }
 
