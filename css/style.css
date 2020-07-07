@@ -506,6 +506,18 @@ img {
   background: var(--basic-dark-blue);
 }
 
+/* Filters */
+
+.filters-hotel {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  
+}
+
 /* Hotel */
 
 .hotel-list {
